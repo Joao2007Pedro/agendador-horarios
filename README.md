@@ -100,6 +100,5 @@ Durante o desenvolvimento deste projeto, foram explorados conceitos fundamentais
 - **Separação de Responsabilidades:** Garantir que cada parte do código tenha uma função única e clara.
 
 ---
-
 Projeto desenvolvido para fins de estudo e prática profissional.
 ```
