@@ -48,7 +48,7 @@ src/
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/Joao2007Pedro/agendador-horarios.git](https://github.com/Joao2007Pedro/agendador-horarios.git)
+git clone https://github.com/Joao2007Pedro/agendador-horarios.git
 ```
 
 ### 2. Entrar na pasta
