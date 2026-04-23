@@ -18,7 +18,7 @@ Este projeto visa a consolidação de conhecimentos em:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java 17/21** (Recomendado)
+- **Java 25** (Recomendado)
 - **Spring Boot** (Web, Data JPA)
 - **H2 Database** (Banco de dados em memória)
 - **Lombok** (Produtividade e redução de boilerplate)
